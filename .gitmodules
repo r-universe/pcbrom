@@ -5,3 +5,6 @@
 [submodule "gpumetropolis"]
 	path = gpumetropolis
 	url = https://github.com/pcbrom/gpumetropolis
+[submodule "harness"]
+	path = harness
+	url = https://github.com/pcbrom/harness
